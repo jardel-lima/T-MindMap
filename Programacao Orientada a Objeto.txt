@@ -1,0 +1,14 @@
+O que e um Objeto? ||3
+Uma representacao das propriedades de uma unica instancia\\100!12
+Objeto e uma instancia de uma classe. Um objeto e capaz de armazenar estado atraves de seus atributos e reagir a mensagens enviadas a ele, assim como se relacionar e enviar mensagens a outros objetos.\\77!10
+mq\\0!1
+O que e uma instacia? ||1
+Instanciar e  um mecanismo onde objetos sao criados a partir de uma classe\\51!8
+Como instaciar um objeto em java?||3
+tipObjeto nameObjeto; nomeObjeto = new tipObjeto;\\96!13
+tipoDoObjeto nomeDoObjeto = new TipoObjeto;\\114!16
+g\\0!0
+O que e Programacao Orientada a Objeto?||3
+A programacao Orientada a objetos (POO) euma forma especial de programar, mais proximo de como expressariamos as coisas na vida real do que outros tipos de programacao.\\80!12
+A POO foi criada para tentar aproximar o mundo real do mundo virtual: a ideia fundamental e tentar simular o mundo real dentro do computador. Para isso, nada mais natural do que utilizar Objetos, afinal, nosso mundo e composto de objeto.\\58!9
+tga1djg\\1!1
